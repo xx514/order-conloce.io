@@ -1,0 +1,5 @@
+{
+  "name": "极简商品订单管理",
+  "description": "一个移动端优先的极简商品与订单管理工具，支持数据统计与趋势分析。",
+  "requestFramePermissions": []
+}
